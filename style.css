@@ -1,0 +1,51 @@
+/*
+.row > div{
+    background-color: #bde7b8;
+    box-shadow: inset 1px -1px 1px gray , inset -1px 1px 1px gray;
+  }
+  */
+  body{
+    background-color: #c8ec;
+    background-size: cover;
+    
+  }
+  
+  header{
+    background-color: #c8ece3;
+  }
+  
+  footer dt{
+      float:left;
+      width:50%;
+  }
+  
+  #intro{
+      background-color:#b934a2;
+      color:white;
+      margin:5px;
+  }
+  #freecake, #featuredcupcake{
+      background-color:rgba(255,255,255,0.57);
+  }
+
+  .container{
+      padding:10px;
+  }
+
+  .lead{
+      margin: 5px;
+  }
+  h4{
+      font-weight: bolder;
+  }
+
+  h5{
+      font-weight: bolder;
+  }
+  p{
+      font-weight: 100;
+  }
+
+  dd{
+      font-style: italic;
+  }
